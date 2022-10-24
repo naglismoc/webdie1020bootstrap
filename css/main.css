@@ -1,0 +1,33 @@
+.container{
+    height: 500px;
+    /* background-color: rgb(135, 135, 248); */
+}
+
+.navbar-collapse{
+    float: right;
+}
+
+.navbar{
+    background-color: rgb(112, 236, 55) !important; 
+
+    font-weight: 900;
+    font-size: 25px;
+}
+
+#dataForm{
+    margin:50px;
+}
+
+.btn-primary{
+    color:blueviolet;
+    background-color: gray;
+}
+
+.btn-primary:hover{
+    color:rgb(110, 226, 43);
+    background-color: gray;
+}
+
+.box{
+    background-color: antiquewhite;
+}
